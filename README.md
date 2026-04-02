@@ -110,6 +110,7 @@ ORDER BY total_sales DESC;
 ## 📸 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
+<img width="1919" height="1032" alt="Screenshot 2026-04-02 134237" src="https://github.com/user-attachments/assets/05bdd5f5-56db-44b7-91d8-7e91d6e97dcc" />
 
 ---
 
@@ -121,7 +122,8 @@ ORDER BY total_sales DESC;
 4. Open Power BI file (.pbix)
 5. Refresh data and explore dashboard
 
----
+---![Uploading Screenshot 2026-04-02 132316.png…]()
+
 
 ## 🎯 Project Outcome
 
