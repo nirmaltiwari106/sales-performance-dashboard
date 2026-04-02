@@ -110,9 +110,10 @@ ORDER BY total_sales DESC;
 ## 📸 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
-<img width="1919" height="1032" alt="Screenshot 2026-04-02 134237" src="https://github.com/user-attachments/assets/05bdd5f5-56db-44b7-91d8-7e91d6e97dcc" />
 
----
+
+---<img width="1913" height="1013" alt="Screenshot 2026-04-02 134456" src="https://github.com/user-attachments/assets/ac3406bd-aa6f-4946-b77a-eda35814ecff" />
+
 
 ## 🚀 How to Run This Project
 
